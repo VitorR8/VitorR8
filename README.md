@@ -17,7 +17,7 @@ My name is Vitor and I'm doing a career changing. Thank you for taking a look at
 ## Contact me
 
 <div>
-  <a href="[https://github.com/VitorR8?tab=repositories](https://www.linkedin.com/in/vitorsouza992673181/)">
+  <a href="https://www.linkedin.com/in/vitorsouza992673181">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
       
           
