@@ -1,11 +1,11 @@
 ## Hey fellow analysts 👋
 
-My name is Vitor and I'm doing a career changing. Thank you for taking a look at my profile. Hope you enjoy it! Feel free to contact me on Linkedin and e-mail.
+My name is Vitor and I'm doing a career changing. Thank you for checking out my profile. Hope you enjoy it! 
+Feel free to contact me on Linkedin and e-mail.
 
 ### About me
 - 🌱 I’m currently learning Statistics, R and Tableau
-- 👯 I’m looking to collaborate on projects involving data analysis
-- 🤔 I’m looking for help with getting a job as a data analyst
+- 👯 I’m looking for to collaborating in projects involving data analysis
 
 ## Programming skills 
 
